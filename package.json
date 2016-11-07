@@ -1,0 +1,6 @@
+{
+  "dependencies": {
+    "mqtt": "^2.0.1",
+    "node-gopigo": "^2.0.5"
+  }
+}
